@@ -1,5 +1,7 @@
 // This my first file first.java 
-// import java.util.*;
-// public static void main(String args[]){
-// system.out.println("hello world");
-// }
+import java.util.*;
+public class Main{
+	public static void main(String args[]){
+		System.out.println("Hello world");
+	}
+}
